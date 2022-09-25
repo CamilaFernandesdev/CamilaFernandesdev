@@ -1,14 +1,13 @@
-# Olá, me chamo Camila Fernandes!
+# Olá!
 ## ABOUT ME
 
 ```python
 class CamilaFernandes:
 
     def __init__(self):
-        self.username = 'Camis'
+        self.username = 'cfl525'
         self.name = 'Camila Fernandes'
 	self.hobby = 'Fotografia'
-	self.city = 'Curitiba'
         self.country = 'Brasil'
 
     def electrical_engineering(self):
@@ -49,6 +48,15 @@ if __name__ == '__main__':
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfl525&layout=compact&langs_count=7&theme=react"/>
 </div>
 
+
+
+
+<a href="https://github.com/cfl525?tab=repositories" title="Perfil">
+<img src="https://activity-graph.herokuapp.com/graph?username=cfl525&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="cfl525"
+            width="79%" />
+</a>
+
+
 ----
  
 ## CONTATO:
@@ -58,5 +66,5 @@ if __name__ == '__main__':
   <a href="https://www.linkedin.com/in/cfl525" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cfl525" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/cfl525/cfl525/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/cfl525/cfl525/workflow/output/github-contribution-grid-snake.svg)
 </div>
