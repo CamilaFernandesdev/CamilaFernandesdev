@@ -23,7 +23,7 @@ class CamilaFernandes:
 	    'code':     ['Python', 'R'],
             'database': ['Mongo DB'],
             'tools':    ['GIT', 'GitHub', 'GitLab', 'Anaconda'],
-	    'library':  ['Pandas', 'Numpy', 'Xarray']
+	    'library':  ['Pandas', 'Numpy', 'Xarray'],
 	    'ide':      ['Spyder', 'VS Code', 'Jupyter Notebook', 'RStudio', 'Google Colaboratory'],
 	    'storytelling': ['Power BI', 'Draw.io']
 	}
@@ -38,9 +38,12 @@ class CamilaFernandes:
 	    'ide': ['VS Code', 'Android Studio']
 	}
 	return self.habilidades
+
+#--------------------------------
 if __name__ == '__main__':
     me = CamilaFernandes()
 ````
+
 ----
 <div align="center">
   <a href="https://github.com/cfl525">
