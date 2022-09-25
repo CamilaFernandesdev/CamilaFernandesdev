@@ -1,25 +1,55 @@
 # Olá, me chamo Camila Fernandes!
+## ABOUT ME
 
+```python
+class CamilaFernandes:
+
+    def __init__(self):
+        self.username = 'Camis'
+        self.name = 'Camila Fernandes'
+	self.hobby = 'Fotografia'
+	self.city = 'Curitiba'
+        self.country = 'Brasil'
+
+    def electrical_engineering(self):
+    """A definir"""
+        #self.course = 'Bacharelado em Engenharia Elétrica'
+	#self.university = 'UTFPR-PG'
+	#self.habilidades = {}
+	pass
+	
+    def data_scientist(self):
+    """Habilidades em construção"""
+        self.habilidades = {
+	    'code':     ['Python', 'R'],
+            'database': ['Mongo DB'],
+            'tools':    ['GIT', 'GitHub', 'GitLab', 'Anaconda'],
+	    'library':  ['Pandas', 'Numpy', 'Xarray']
+	    'ide':      ['Spyder', 'VS Code', 'Jupyter Notebook', 'RStudio', 'Google Colaboratory'],
+	    'storytelling': ['Power BI', 'Draw.io']
+	}
+	return self.habilidades
+
+    def mobile_dev(self):
+    """Iniciando na área de desenvolvimento mobile"""
+        self.habilidades = {
+	    'os': ['Híbrido'],
+	    'code': ['Dart'],
+	    'framework': ['Flutter'],
+	    'ide': ['VS Code', 'Android Studio']
+	}
+	return self.habilidades
+if __name__ == '__main__':
+    me = CamilaFernandes()
+````
+----
 <div align="center">
   <a href="https://github.com/cfl525">
-  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=cfl525&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfl525&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=cfl525&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfl525&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-## TECNOLOGIAS UTILIZADAS:
-
-👩‍💻⚡Estudos: Python, Data Science, Banco de Dados e Storytelling aplicado ao Planejamento de Sistemas Elétricos.
-	@@ -31,7 +27,7 @@
-<div style="display: inline_block"><br>
-  <img align="center" alt="Camis-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Camis-Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
-  <img align="center" alt="Camis-Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Camis-NumPy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-  <img align="center" alt="Camis-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Camis-Trello" height="50" width="90" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-
-
-</div>
+----
  
 ## CONTATO:
 <div> 
@@ -27,3 +57,6 @@
   <a href="https://www.linkedin.com/in/cfl525" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/cfl525" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cfl525" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a>
+
+![Snake animation](https://github.com/cfl525/cfl525/blob/output/github-contribution-grid-snake.svg)
+</div>
