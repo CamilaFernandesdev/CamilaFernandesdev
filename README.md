@@ -61,8 +61,7 @@ if __name__ == '__main__':
   <a href="https://www.linkedin.com/in/cfl525" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/cfl525" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cfl525" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a>
+
 </div>
 
-<div  align = "center">
 ![Animação de cobra](https://github.com/cfl525/cfl525/blob/output/github-contribution-grid-snake.svg)
-</div>
