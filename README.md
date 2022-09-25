@@ -45,7 +45,7 @@ if __name__ == '__main__':
 <div align="center">
   <a href="https://github.com/cfl525">
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=cfl525&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfl525&layout=compact&langs_count=7&theme=react"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfl525&layout=compact&langs_count=7&theme=react"/>
 
 <a href="https://github.com/cfl525?tab=repositories" title="Perfil">
 <img src="https://activity-graph.herokuapp.com/graph?username=cfl525&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="cfl525"
