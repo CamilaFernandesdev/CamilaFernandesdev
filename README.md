@@ -1,44 +1,27 @@
-# Olá!
+# Hello, World!
 ## ABOUT ME
 
 ```python
 class CamilaFernandes:
-
+  
     def __init__(self):
         self.username = 'cfl525'
         self.name = 'Camila Fernandes'
-	self.hobby = 'Fotografia'
-        self.country = 'Brasil'
-
-    def electrical_engineering(self):
-    """A definir"""
-        #self.course = 'Bacharelado em Engenharia Elétrica'
-	#self.university = 'UTFPR-PG'
-	#self.habilidades = {}
-	pass
-	
-    def data_scientist(self):
-    """Habilidades em construção"""
-        self.habilidades = {
+	self.course = 'Electrical Engineering'
+	self.university = 'UTFPR - Universidade Tecnológica Federal do Paraná'
+        self.country = 'Brazil'
+	self.datascience_hability = {
 	    'code':     ['Python', 'R'],
             'database': ['Mongo DB'],
             'tools':    ['GIT', 'GitHub', 'GitLab', 'Anaconda'],
-	    'library':  ['Pandas', 'Numpy', 'Xarray'],
+	    'library':  ['Pandas', 'Numpy'],
 	    'ide':      ['Spyder', 'VS Code', 'Jupyter Notebook', 'RStudio', 'Google Colaboratory'],
-	    'storytelling': ['Power BI', 'Draw.io']
+	    'storytelling': ['Power BI', 'Draw.io'],
+	    'framework': ['skicit-learn']
 	}
-	return self.habilidades
-
-    def mobile_dev(self):
-    """Iniciando na área de desenvolvimento mobile"""
-        self.habilidades = {
-	    'os': ['Híbrido'],
-	    'code': ['Dart'],
-	    'framework': ['Flutter'],
-	    'ide': ['VS Code', 'Android Studio']
-	}
-	return self.habilidades
-
+	
+	return self
+	
 #--------------------------------
 if __name__ == '__main__':
     me = CamilaFernandes()
