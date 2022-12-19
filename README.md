@@ -34,8 +34,7 @@ if __name__ == '__main__':
   <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaFernandesdev&layout=compact&langs_count=7&theme=react"/>
 
 <a href="https://github.com/CamilaFernandesdev?tab=repositories" title="Perfil">
-<img src="https://activity-graph.herokuapp.com/graph?username=CamilaFernandesdev&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="cfl525"
-            width="100%" />
+<img src="https://activity-graph.herokuapp.com/graph?username=CamilaFernandesdev&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="CamilaFernandesdev" width="100%" />
 </a>
 </div>
 
