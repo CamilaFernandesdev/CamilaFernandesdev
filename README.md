@@ -37,6 +37,14 @@ if __name__ == '__main__':
 <img src="https://activity-graph.herokuapp.com/graph?username=CamilaFernandesdev&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="CamilaFernandesdev" width="100%" />
 </a>
 -->
+<br/>
+
+
+
+[![CamilaFernandesdev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CamilaFernandesdev&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/CamilaFernandesdev/github-readme-activity-graph)
+
+<br/>
+<br/>	  
 </div>
 
 ----
